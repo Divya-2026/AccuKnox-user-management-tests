@@ -1,0 +1,16 @@
+Test Case: User Login with Valid Credentials
+Status: PASS
+
+Test Case: User Login with Invalid Password
+Status: PASS
+
+Test Case: User Creation with Empty Fields
+Status: PASS
+
+================== test session starts ==================
+collected 6 items
+
+test_login_valid.py ......
+test_login_invalid.py ....
+
+================== 6 passed in 1.23s ==================
